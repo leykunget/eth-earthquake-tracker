@@ -11,6 +11,6 @@ A real-time web application that monitors seismic activities across Ethiopia, bu
 
 The app serves as a valuable tool for monitoring seismic activity in Ethiopia, providing both researchers and the general public with easy access to earthquake data through an intuitive and user-friendly interface.
 
-🔗 [Check out the application here!]()  
+🔗 [Check out the application here!](https://0194598d-2226-dd34-14a9-412189b7b1dc.share.connect.posit.cloud/)  
 📸 ![Ethiopia Earthquake Tracker App](img/eth-eartquake-tracker.jpg)
 
