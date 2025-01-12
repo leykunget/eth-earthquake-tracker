@@ -1,0 +1,13 @@
+name: eth-earthquake-tracker
+title: eth-earthquake-tracker
+username: likuta
+account: likuta
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13700535
+bundleId: 9636599
+url: https://likuta.shinyapps.io/eth-earthquake-tracker/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app2.R|app3.R
