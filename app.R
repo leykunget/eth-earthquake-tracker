@@ -124,7 +124,7 @@ ui <- page_navbar(
                             "Last 7 days" = 7,
                             "Last 14 days" = 14,
                             "Last 30 days" = 30),
-                selected = 1),
+                selected = 7),
     sliderInput("mag_range", "Magnitude Range:",
                 min = 0, max = 8, 
                 value = c(0, 8),
